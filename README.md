@@ -1,0 +1,2 @@
+# AIstores
+Practical project
